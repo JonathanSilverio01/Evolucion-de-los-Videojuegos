@@ -27,7 +27,7 @@ header{
     background: #fe8c00;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, hsla(224, 100%, 49%, 0.63), hsla(145, 100%, 50%, 0.63)), url(../PaginaWEB2/img/Imagen7.png);
   /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, hsla(224, 100%, 49%, 0.63), hsla(145, 100%, 50%, 0.60)), url(../PaginaWEB2/img/Imagen7.png);
+background: linear-gradient(to right, hsla(224, 100%, 49%, 0.63), hsla(145, 100%, 50%, 0.63)), url(../PaginaWEB2/img/Imagen7.png);
  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size: cover;
 background-attachment: fixed;
